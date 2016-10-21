@@ -18,7 +18,6 @@ describe("Item", function() {
       expect(item._amount).toEqual(3);
     });
 
-
   });
 
 });
